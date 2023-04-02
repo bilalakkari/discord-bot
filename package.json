@@ -1,0 +1,21 @@
+{
+  "name": "discord",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "dotenv": "^16.0.3",
+    "npm": "^9.6.3",
+    "openai": "^3.2.1",
+    "run": "^1.4.0",
+    "start": "^5.1.0"
+  }
+}
